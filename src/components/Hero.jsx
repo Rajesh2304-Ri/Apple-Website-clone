@@ -5,7 +5,7 @@ const Hero= ()=>{
 
     return(
             <section className="  overflow-hidden h-[70vh] " >
-            <div className="relative  text-center h-44 ">
+            <div className="relative  text-center h-44   ">
             <img className="bg-cover bg-center  mt-28 md:mt-36 w-full md: h-60 " style={{transform:'scale(2)'}} src={desktopImage} alt="Mac for Students"/> 
             
             <div className="absolute   w-full mt-10">

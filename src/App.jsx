@@ -9,7 +9,7 @@ import Footer from "./components/Footer"
 import Nav from "./components/Navbar1"
 function App() {
   return (
-    <div className="overflow-hidden">
+    <div >
       <div className="sticky top-0 z-40 backdrop-blur-sm bg-white/95  ">
       <Topbar />
       <Navbar />

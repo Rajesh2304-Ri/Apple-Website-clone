@@ -19,7 +19,7 @@ const Macbook= ()=>{
         
          </div>
 
-         <div className="absolute left-36 bottom-7 md:left-[42%]">
+         <div className="absolute left-44 bottom-7 md:left-[42%]">
               <span className="text-xl bg-gradient-to-r from-blue-500 via-pink-500 to-orange-500 text-transparent bg-clip-text " > Built for Apple Intelligence </span>
             </div>
 

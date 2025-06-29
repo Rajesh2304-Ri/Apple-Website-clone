@@ -1,9 +1,4 @@
 
-
-
-
-
-
 const Footer = () => {
     const appleProducts = [
         {
@@ -52,7 +47,7 @@ const Footer = () => {
 
 
     return (
-        <footer className=" bg-gray-100">
+        <footer className=" bg-gray-100 overflow-hidden">
             <div className="mt-4 flex flex-col justify-center   ">
                 <div className="text-xs text-gray-500 font-sans mt-11 mx-5 md:mx-60 ">
                     <p>◊No Cost EMI is available with the purchase of an eligible product made using qualifying cards on 3-, 6-, 9- or 12-month tenures from most leading card issuers. Eligible AirPods, HomePod and Beats products are available with No Cost EMI on 3- and 6-month tenures only. Monthly pricing is rounded to the nearest rupee. Exact pricing will be provided by your card issuer, subject to your card issuer’s terms and conditions. Minimum order spend applies as per your card issuer’s threshold. No Cost EMI is not available to business customers and cannot be combined with Apple Store for Education or Corporate Employee Purchase Plan pricing. Card eligibility is subject to terms and conditions between you and your card issuer. Offer may be revised or withdrawn at any time without any prior notice. Terms apply.</p>
@@ -79,8 +74,8 @@ const Footer = () => {
 
             <div className="border border-gray-300 h-[1px] mt-8 mx-60"> </div>
 
-            <div className="flex flex-wrap  justify-center items-center"   >
-                <div className="flex space-x-32">
+            <div className="flex flex-wrap  justify-center items-center max-w-5=4xl mx-auto"   >
+                <div className="flex space-x-8">
                     <div className="mt-3   p-5  ">
 
                         <ul className="space-y-1 ">
@@ -118,9 +113,9 @@ const Footer = () => {
                         </ul>
                     </div>
                 </div>
-                <div className="">
-                    <div className=" flex items-center  space-x-32 ">
-                        <div className="p-5 mb-20">
+                <div className="  h-[300px] md:h-[365px]">
+                    <div className=" flex items-center  space-x-12 ">
+                        <div className="p-3 mb-20">
 
                             <ul className="space-y-2 ">
                                 <li className="text-sm font-semibold">Apple Store </li>
@@ -138,7 +133,7 @@ const Footer = () => {
                             </ul>
 
                         </div>
-                        <div className=" pr-9 md:mb-16">
+                        <div className=" pr-9 mb-16 md:mb-16">
                             <ul className="space-y-2">
                                 <li className="text-sm font-semibold">For Business</li>
                                 <li className="text-xs text-gray-600 hover:underline">Apple and Business</li>
@@ -162,7 +157,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className=" w-full md:w-auto ">
+                <div className=" w-[400px]    md:w-auto ">
                     <div className=" p-5  ml-4  ">
                         <ul className="space-y-2">
                             <li className="text-sm font-semibold">Apple Values</li>
