@@ -1,12 +1,21 @@
-# React + Vite
+🍎 Apple Clone - ReactJS
+This is a frontend-only clone of the official Apple website, built using ReactJS, Tailwind CSS, and simple JavaScript. The project focuses on replicating the visual layout and interactive UI elements of Apple's homepage and menus, providing a clean, responsive user interface similar to the original site.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+*Fully responsive design (Mobile, Tablet & Desktop)
+*Interactive Accordion Menu (like Apple's footer)
+*Smooth hover and click effects
+*Organized component structure with React
+*Built with Tailwind CSS for rapid UI styling
 
-Currently, two official plugins are available:
+⚒️ Tech Stack
+*ReactJS
+*Tailwind CSS
+*JavaScript (ES6+)
+*GitHub Pages (for deployment)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📁 Project Status
+✅ Completed UI Clone
+❌ No backend functionality (This project is for educational and UI practice purposes only)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ Click Here to Explore : https://apple-website-clone-git-main-rajeshs-projects-fa3a2051.vercel.app/
